@@ -1,0 +1,14 @@
+body {
+  background-image: url("../img/dice.gif");
+}
+.jumbotron{
+  color: white;
+
+  background: rgba(200, 238, 248, 0.3);
+}
+h2{
+  color: white;
+}
+p{
+  color: white;
+}
